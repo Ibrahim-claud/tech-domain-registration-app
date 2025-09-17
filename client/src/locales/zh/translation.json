@@ -1,0 +1,241 @@
+{
+  "_____COMMENT NAVBAR": "THIS IS THE NAVBAR CONTENT_____",
+  "nav_domain": "域名",
+  "nav_hosting": "主机",
+  "nav_web": "网站托管",
+  "nav_vps": "VPS 托管",
+  "nav_services": "服务",
+  "nav_voip": "VoIP",
+  "nav_ict": "ICT 基础设施",
+  "nav_isp": "ISP",
+  "nav_disaster_recovery": "灾难恢复",
+  "nav_help": "帮助",
+  "nav_ticket": "工单",
+  "nav_contact": "联系我们",
+  "nav_about": "关于我们",
+  "nav_language": "语言",
+  "policy": "隐私政策",
+  "terms": "服务条款",
+
+  
+  "_____ COMMENT- HOME PAGE DOMAINS HERO": "THIS IS THE HOME PAGE DOMAINS HERO CONTENT_____",
+  "register_domain_title": "注册域名以开始",
+  "www": "万维网",
+  "find_your_new_domain_name_here": "在此处查找您的新域名",
+  "search": "搜索",
+
+  
+  "_____ COMMENT- HOME PAGE DOMAINS AVAILABLE": "THIS IS THE HOME PAGE DOMAINS AVAILABLE CONTENT_____",
+  "domain_available": "域名可用",
+  "domain_unavailable": "域名不可用",
+  "domain_button": "立即注册",
+
+  "_____ COMMENT- HOME PAGE STEPS": "THIS IS THE HOME PAGE STEPS CONTENT_____",
+  "steps_section_title": "通过以下简单步骤即可轻松获取我们的服务",
+  "step_one_title": "第一步",
+  "step_one_inner": "确定您的需求",
+  "step_one_desc": "选择您组织所需的服务，例如光纤互联网、主机托管、VoIP 或灾难恢复。",
+
+  "step_two_title": "第二步",
+  "step_two_inner": "选择您的计划",
+  "step_two_desc": "选择符合您需求和预算的方案。每项服务都为不同规模的企业量身定制。",
+
+  "step_three_title": "第三步",
+  "step_three_inner": "进入服务",
+  "step_three_desc": "点击“订阅”直接进入服务端点。根据需要完成注册、开通或设置。",
+
+
+  "_____COMMENT- HOME PAGE TABS": "THIS IS THE HOME PAGE TABS CONTENT_____",
+   "tabs": {
+    "sectionTitle": {
+      "line1": "值得信赖的网络解决方案提供商，",
+      "line2": "为企业和个人服务。"
+    },
+    "domainHosting": {
+      "label": "域名托管",
+      "title": "“认领它。托管它。让它成长。” 或 “在数字世界中锚定您的存在。”",
+      "desc": "让您的网站持续在线并随时可访问，为您的线上形象提供安全可靠的家园。",
+      "img": "src/assets/images/domain_hosting.png"
+    },
+    "vpsHosting": {
+      "label": "VPS 托管",
+      "title": "“性能、掌控与灵活性——您的服务器，您的规则。”",
+      "desc": "VPS 托管为您提供专属虚拟服务器，让您完全掌控资源。它非常适合需要可靠性、速度和可扩展性的成长型网站或应用，而无需支付整台物理服务器的高昂费用。",
+      "img": "src/assets/images/vps_hosting.png"
+    },
+    "voip": {
+      "label": "网络电话 (VoIP)",
+      "title": "“更聪明的沟通，而非更费力——随时随地用 VoIP 连接。”",
+      "desc": "通过互联网拨打和接听电话，享受清晰音质、更低成本，以及为您的业务量身定制的灵活功能。",
+      "img": "src/assets/images/voip.png"
+    },
+    "ict": {
+      "label": "信息与通信技术 (ICT)",
+      "title": "“构建您数字运营的中坚力量。”",
+      "desc": "我们为您的企业设计、部署并管理核心技术基础设施——从网络、服务器到云端解决方案——确保高效、可扩展和安全。",
+      "img": "src/assets/images/ict.png"
+    },
+    "isp": {
+      "label": "互联网服务提供商 (ISP)",
+      "title": "“无论身在何处，快速且可靠的连接。”",
+      "desc": "我们的光纤和 LTE 上网服务让您的企业始终保持高速、稳定和安全的连接——无论是在办公室还是在外出途中。",
+      "img": "src/assets/images/isp.png"
+    },
+    "dr": {
+      "label": "灾难恢复 (DR)",
+      "title": "“快速恢复——保护您的数据，减少停机时间。”",
+      "desc": "我们帮助您的企业在系统故障、网络攻击或灾难后快速恢复，通过数据保护、安全备份和减少停机时间来保障业务连续性。",
+      "img": "src/assets/images/disaster_recovery.png"
+    }
+  },
+
+
+  "_____COMMENT- HOME PAGE WHY CHOOSE US": "THIS IS THE HOME PAGE WHY CHOOSE US CONTENT_____",
+  "whyChooseUs": {
+    "sectionTitle": "为什么选择我们：",
+    "reason1": {
+      "title": "一体化技术合作伙伴：",
+      "desc": "我们提供全面的服务套件——从高速光纤和 LTE 上网，到域名和 VPS 托管、VoIP、灾难恢复和 ICT 基础设施。我们的解决方案无缝集成，为您的企业带来便利、高效，并成为您值得信赖的单一技术合作伙伴。"
+    },
+    "reason2": {
+      "title": "以客户为中心的支持：",
+      "desc": "我们的团队提供 24/7 个性化支持，确保快速响应、主动监控，并为您的独特业务需求提供量身定制的指导。我们不仅解决问题，还帮助预防问题。"
+    },
+    "reason3": {
+      "title": "创新且可扩展的解决方案：",
+      "desc": "我们利用最新技术构建灵活、面向未来的解决方案，伴随您的企业不断发展。无论是扩展运营还是采用新的数字工具，我们的基础设施和服务都能轻松扩展以支持增长。"
+    },
+    "reason4": {
+      "title": "可靠与安全：",
+      "desc": "我们的网络、系统和解决方案旨在实现最大正常运行时间、强大安全性和有效的灾难恢复。即使遇到意外情况，我们也能确保您的企业保持在线、受保护并顺利运行。"
+    }
+  },
+
+  "_____COMMENT- ABOUT PAGE": "THIS IS THE ABOUT PAGE CONTENT_____",
+  "about_heading": "关于 电信技术",
+  "about_content": "电信技术是您值得信赖的一站式技术合作伙伴。我们提供高速光纤、LTE 互联网、清晰的 VoIP、可靠的网络托管、灾难恢复和智能 ICT 解决方案，旨在保持您的业务连接和安全。我们与众不同之处在于我们 24/7 的客户支持、强大的网络安全性以及可扩展的、面向未来的技术，能够与您的业务共同成长。在 ACE，我们不仅仅是连接您——我们赋予您保持领先的能力。",
+
+
+   "services": {
+    "title": "服务",
+    "register": "注册",
+    "domainHosting": {
+      "title": "域名托管",
+      "description": "“注册它，托管它，发展它。” 让您的网站保持在线和可访问，提供一个安全可靠的在线家园。"
+    },
+    "vpsHosting": {
+      "title": "VPS 托管",
+      "description": "“性能、控制与灵活性 —— 您的服务器，您做主。” 提供专属虚拟服务器，全面掌控资源，适合需要速度与扩展性的成长型网站或应用。"
+    },
+    "ict": {
+      "title": "ICT",
+      "description": "“构建您数字化运营的核心。” 我们设计、部署并管理企业所需的技术基础设施 —— 从网络、服务器到云解决方案。"
+    },
+    "voip": {
+      "title": "网络电话 (VoIP)",
+      "description": "“更聪明的沟通 —— 随时随地连接。” 通过互联网拨打与接听电话，享受清晰音质、更低成本和灵活功能。"
+    },
+    "isp": {
+      "title": "互联网服务提供商 (ISP)",
+      "description": "“无论身在何处，都能快速可靠地连接。” 我们的光纤与 LTE 服务为您的企业提供高速、稳定与安全的互联网接入。"
+    },
+    "disasterRecovery": {
+      "title": "灾难恢复",
+      "description": "“快速恢复 —— 保护数据，减少停机。” 我们帮助企业在系统故障、网络攻击或灾难后快速恢复，保障数据并最大限度降低损失。"
+    }
+  },
+
+  "_____COMMENT ICT PAGE": "THIS IS THE ICT PAGE CONTENT_____",
+   "ictHero": {
+    "title": "ICT 基础设施设计",
+    "subtitle": "轻松设计您的理想 ICT 基础设施。",
+    "paragraph": "请在我们的简单申请表中填写您的需求。我们将根据您的业务需要定制解决方案。请填写以下表格与我们分享您的需求，我们的工作人员会尽快与您联系。"
+  },
+
+    "ictRequestForm": {
+    "title": "申请表",
+    "companyName": {
+      "label": "公司名称",
+      "placeholder": "公司名称",
+      "error": "公司名称是必填项"
+    },
+    "email": {
+      "label": "电子邮箱",
+      "placeholder": "example@mail.com",
+      "errorRequired": "邮箱是必填项",
+      "errorInvalid": "无效的邮箱地址"
+    },
+    "phone": {
+      "label": "电话号码",
+      "placeholder": "0682345678",
+      "errorRequired": "电话号码是必填项",
+      "errorInvalid": "无效的电话号码"
+    },
+    "address": {
+      "label": "地址",
+      "placeholder": "地址",
+      "error": "地址是必填项"
+    },
+    "description": {
+      "label": "描述",
+      "placeholder": "留言",
+      "error": "描述是必填项"
+    },
+    "successMessage": "✅ 您的请求已成功提交！",
+    "errorMessage": "❌ 抱歉！您的请求提交失败，请重试。",
+    "submitButton": "提交表单"
+  },
+
+  
+  "thankyou": {
+    "success": "ICT 基础设施请求已成功验证！",
+    "backHome": "返回首页",
+    "expired": "⚠️ 验证码已过期。请重新请求新的验证码。",
+    "noStatus": "📩 请检查您的邮箱以获取确认码"
+  },
+
+
+
+
+  "_____COMMENT CONTACT PAGE": "THIS IS THE CONTACT PAGE CONTENT_____",
+  "contact_heading": "联系我们",
+
+  "contact": {
+    "details": {
+      "title": "联系信息",
+      "phone": "电话号码:",
+      "infoEmail": "信息邮箱:",
+      "supportEmail": "支持邮箱:"
+    },
+    "location": {
+      "title": "位置",
+      "address": "地址:"
+    },
+    "form": {
+      "title": "联系表单",
+      "name": "姓名:",
+      "email": "电子邮箱:",
+      "subject": "主题:",
+      "message": "留言:",
+      "submit": "发送"
+    },
+    "placeholders": {
+      "name": "输入您的姓名",
+      "email": "输入您的电子邮箱",
+      "subject": "输入主题",
+      "message": "输入您的留言"
+    },
+    "alertCaptcha": "⚠️ 提交前请验证 reCAPTCHA。"
+  },
+
+  "_____COMMENT FOOTER PAGE": "THIS IS THE FOOTER CONTENT_____",
+  "footer_company": "公司",
+  "footer_services": "服务",
+  "footer_copyright": "版权所有 © 2025 Telecommunications Technology。保留所有权利。",
+
+  "_____COMMENT 404 PAGE": "THIS IS THE 404 PAGE CONTENT_____",
+  "404": "404",
+  "404_description": "页面未找到",
+  "404_suggestion": "返回主页"
+
+}

@@ -1,0 +1,242 @@
+{
+
+  "_____COMMENT NAVBAR": "THIS IS THE NAVBAR CONTENT_____",
+  "nav_domain": "Domain",
+  "nav_hosting": "Hosting",
+  "nav_web": "Web Hosting",
+  "nav_vps": "VPS Hosting",
+  "nav_services": "Services",
+  "nav_voip": "VoIP",
+  "nav_ict": "ICT Infrastructure",
+  "nav_isp": "ISP",
+  "nav_disaster_recovery": "Disaster Recovery",
+  "nav_help": "Help",
+  "nav_ticket": "Tickets",
+  "nav_contact": "Contact Us",
+  "nav_about": "About Us",
+  "nav_language": "Language",
+  "policy": "Policy",
+  "terms": "Terms & Conditions",
+
+
+    "_____ COMMENT- HOME PAGE DOMAINS HERO": "THIS IS THE HOME PAGE DOMAINS HERO CONTENT_____",
+ "register_domain_title": "Register a domain name to start",
+ "www": "WWW",
+ "find_your_new_domain_name_here": "Find your new domain name here",
+ "search": "Search",
+
+ "_____ COMMENT- HOME PAGE DOMAINS AVAILABLE": "THIS IS THE HOME PAGE DOMAINS AVAILABLE CONTENT_____",
+ "domain_available": "domain is available",
+ "domain_unavailable": "domain is unavailable",
+ "domain_button": "Register Now",
+
+ "_____ COMMENT- HOME PAGE STEPS": "THIS IS THE HOME PAGE STEPS CONTENT_____",
+  "steps_section_title": "Getting our Services is easy with this simple steps",
+  "step_one_title": "Step One",
+  "step_one_inner": "Identify Your Needs",
+  "step_one_desc": "Select the services your organization requires, such as fibre internet, hosting, VoIP, or disaster recovery.",
+
+  "step_two_title": "Step Two",
+  "step_two_inner": "Choose Your Plan",
+  "step_two_desc": "Pick a plan or package that fits your needs and budget. Each service has tailored options to suit different business sizes.",
+
+  "step_three_title": "Step Three",
+  "step_three_inner": "Proceed to Service",
+  "step_three_desc": "Click “Subscribe” to go directly to the service endpoint. Complete registration, provisioning, or setup as required.",
+
+  
+ "_____COMMENT- HOME PAGE TABS": "THIS IS THE HOME PAGE TABS CONTENT_____",
+   "tabs": {
+    "sectionTitle": {
+      "line1": "Trusted provider of web solutions for",
+      "line2": "businesses and individuals."
+    },
+    "domainHosting": {
+      "label": "Domain Hosting",
+      "title": "\"Claim it. Host it. Grow it.\" or \"Anchor your presence in the digital grid.\"",
+      "desc": "Keep your website live and accessible, with a secure, reliable home for your online presence.",
+      "img": "src/assets/images/domain_hosting.png"
+    },
+    "vpsHosting": {
+      "label": "VPS Hosting",
+      "title": "\"Power, control, and flexibility — your server, your rules.\"",
+      "desc": "VPS Hosting gives you a dedicated virtual server with full control over your resources. It’s perfect for growing websites or applications that need reliability, speed, and scalability without the cost of a full physical server.",
+      "img": "src/assets/images/vps_hosting.png"
+    },
+    "voip": {
+      "label": "VoIP",
+      "title": "\"Talk smarter, not harder — connect anywhere with VoIP.\"",
+      "desc": "Make and receive calls over the internet with crystal-clear quality, lower costs, and flexible features for your business communication needs.",
+      "img": "src/assets/images/voip.png"
+    },
+    "ict": {
+      "label": "ICT",
+      "title": "\"Building the backbone of your digital operations.\"",
+      "desc": "We design, deploy, and manage the technology infrastructure your business relies on — from networks and servers to cloud solutions — ensuring efficiency, scalability, and security.",
+      "img": "src/assets/images/ict.png"
+    },
+    "isp": {
+      "label": "ISP",
+      "title": "\"Fast, reliable connectivity wherever you are.\"",
+      "desc": "Our fibre and LTE internet services keep your business connected with high-speed, stable, and secure access — whether in the office or on the go.",
+      "img": "src/assets/images/isp.png"
+    },
+    "dr": {
+      "label": "DR",
+      "title": "“Bounce back fast — protect your data, minimize downtime.”",
+      "desc": "We help your business recover quickly from system failures, cyber-attacks, or disasters by safeguarding data, securing backups, and minimizing downtime.",
+      "img": "src/assets/images/disaster_recovery.png"
+    }
+  },
+
+
+  "_____COMMENT- HOME PAGE WHY CHOOSE US": "THIS IS THE HOME PAGE WHY CHOOSE US CONTENT_____",
+   "whyChooseUs": {
+    "sectionTitle": "Why Choose Us:",
+    "reason1": {
+      "title": "All-in-One Technology Partner:",
+      "desc": "We provide a comprehensive suite of services—from high-speed fibre and LTE internet to domain and VPS hosting, VoIP, disaster recovery, and ICT infrastructure. Our solutions are designed to integrate seamlessly, giving your business convenience, efficiency, and a single trusted technology partner."
+    },
+    "reason2": {
+      "title": "Customer-Focused Support:",
+      "desc": "Our team delivers 24/7 personalized support, ensuring rapid responses, proactive monitoring, and tailored guidance to meet your business’s unique needs. We don’t just solve problems—we help prevent them."
+    },
+    "reason3": {
+      "title": "Innovative & Scalable Solutions:",
+      "desc": "We leverage the latest technologies to build flexible, future-ready solutions that evolve with your business. Whether you’re expanding operations or adopting new digital tools, our infrastructure and services scale effortlessly to support growth."
+    },
+    "reason4": {
+      "title": "Reliable & Secure:",
+      "desc": "Our network, systems, and solutions are built for maximum uptime, robust security, and effective disaster recovery. We ensure your business stays online, protected, and running smoothly—even when the unexpected happens."
+    }
+  },
+
+  "_____COMMENT- ABOUT PAGE": "THIS IS THE ABOUT PAGE CONTENT_____",
+  "about_heading": "About Telecommunications Technology",
+  "about_content": "Telecommunications Technology is your trusted all-in-one technology partner. We provide high-speed fibre, LTE internet, crystal-clear VoIP, reliable web hosting, disaster recovery, and smart ICT solutions designed to keep your business connected and secure. What sets us apart is our 24/7 customer-focused support, robust network security, and scalable, future-ready technology that grows with your business. At ACE, we don’t just connect you — we empower you to stay ahead.",
+
+
+"services": {
+    "title": "Services",
+    "register": "Register",
+    "domainHosting": {
+      "title": "Domain Hosting",
+      "description": "\"Claim it. Host it. Grow it.\" Keep your website live and accessible with a secure, reliable home for your online presence."
+    },
+    "vpsHosting": {
+      "title": "VPS Hosting",
+      "description": "\"Power, control, and flexibility — your server, your rules.\" Get a dedicated virtual server with full control over your resources. Perfect for growing websites or applications that need speed and scalability."
+    },
+    "ict": {
+      "title": "ICT",
+      "description": "\"Building the backbone of your digital operations.\" We design, deploy, and manage the technology infrastructure your business relies on — from networks and servers to cloud solutions."
+    },
+    "voip": {
+      "title": "VoIP",
+      "description": "\"Talk smarter, not harder — connect anywhere with VoIP.\" Make and receive calls over the internet with crystal-clear quality, lower costs, and flexible features."
+    },
+    "isp": {
+      "title": "ISP",
+      "description": "\"Fast, reliable connectivity wherever you are.\" Our fibre and LTE internet services keep your business connected with high-speed, stable, and secure access."
+    },
+    "disasterRecovery": {
+      "title": "Disaster Recovery",
+      "description": "\"Bounce back fast — protect your data, minimize downtime.\" We help your business recover quickly from failures, cyber-attacks, or disasters by safeguarding data and minimizing downtime."
+    }
+  },
+
+
+  "_____COMMENT ICT PAGE": "THIS IS THE ICT PAGE CONTENT_____",
+    "ictHero": {
+    "title": "ICT Infrastructure Design",
+    "subtitle": "Design your ideal ICT infrastructure with ease.",
+    "paragraph": "Tell us your requirements in our simple request form. We will tailor solutions that fit your business needs. Please fill in the form below to share your requirements, one of our staff members will get back to you promptly."
+  },
+
+    "ictRequestForm": {
+    "title": "Request Form",
+    "companyName": {
+      "label": "Company Name",
+      "placeholder": "Company Name",
+      "error": "Company name is required"
+    },
+    "email": {
+      "label": "Email Address",
+      "placeholder": "example@mail.com",
+      "errorRequired": "Email is required",
+      "errorInvalid": "Invalid email address"
+    },
+    "phone": {
+      "label": "Phone No.",
+      "placeholder": "0682345678",
+      "errorRequired": "Phone number is required",
+      "errorInvalid": "Invalid phone number"
+    },
+    "address": {
+      "label": "Address",
+      "placeholder": "Address",
+      "error": "Address is required"
+    },
+    "description": {
+      "label": "Description",
+      "placeholder": "Message",
+      "error": "Description is required"
+    },
+    "successMessage": "✅ Your request has been submitted successfully!",
+    "errorMessage": "❌ Oops! Your request could not be submitted. Please try again.",
+    "submitButton": "Submit Form"
+  },
+
+    "thankyou": {
+    "success": "ICT Infrastructure Request Verified Successfully!",
+    "backHome": "Back to Home",
+    "expired": "⚠️ Code Expired. Please request a new OTP.",
+    "noStatus": "📩 Check your email for the confirmation code"
+  },
+
+
+  "_____COMMENT CONTACT PAGE": "THIS IS THE CONTACT PAGE CONTENT_____",
+  "contact_heading": "Contact Us",
+
+    "contact": {
+    "details": {
+      "title": "Contact Details",
+      "phone": "Phone Number:",
+      "infoEmail": "Information Email:",
+      "supportEmail": "Support Email:"
+    },
+    "location": {
+      "title": "Location",
+      "address": "Address:"
+    },
+    "form": {
+      "title": "Contact Form",
+      "name": "Name:",
+      "email": "Email:",
+      "subject": "Subject:",
+      "message": "Message:",
+      "submit": "Send"
+    },
+    "placeholders": {
+      "name": "Enter your name",
+      "email": "Enter your email",
+      "subject": "Enter subject",
+      "message": "Enter your message"
+    },
+    "alertCaptcha": "⚠️ Please verify the reCAPTCHA before submitting."
+  },
+
+
+  "_____COMMENT FOOTER PAGE": "THIS IS THE FOOTER CONTENT_____",
+  "footer_company": "Company",
+  "footer_services": "Services",
+  "footer_copyright": "Copyright © 2025 Telecommunications Technology. All Rights Reserved.",
+
+  "_____COMMENT 404 PAGE": "THIS IS THE 404 PAGE CONTENT_____",
+  "404": "404",
+  "404_description": "Page not found",
+  "404_suggestion": "Back to Home Page"
+}
+
+
+

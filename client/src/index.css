@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-telRed: #d52c29;
+  --color-telDark: #333333;
+}
+
+a.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none;
+
+}
+#text {
+    display: none;
+}

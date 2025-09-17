@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { Check } from "lucide-react"; // for the check icon
-const Banner = "src/assets/images/website-banner.jpg";
+import Banner from "../assets/images/website-banner.jpg";
 import { useTranslation } from "react-i18next";
 
 const Hero = () => {
